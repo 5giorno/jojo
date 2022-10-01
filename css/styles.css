@@ -2,11 +2,17 @@
 
 @import "components/nav-bar.css";
 
+@import "screens/screens-header.css";
+@import"screens/friends.css";
+
 @import "statusbar.css";
-@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 @import "variable.css";
 body{
-    font-family:  'Cinzel Decorative', sans-serif;
+
+    font-family: 'Silkscreen', sans-serif;
+    height: 1000vh;
 
 }
 
