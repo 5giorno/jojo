@@ -10,6 +10,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 @import "variable.css";
+@import"component/badge.css";
+@import"screens/find.css";
 body{
 
     font-family: 'Silkscreen', sans-serif;
