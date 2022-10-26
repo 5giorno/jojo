@@ -12,6 +12,7 @@
 @import "variable.css";
 @import"component/badge.css";
 @import"screens/find.css";
+@import"screens/chat.css";
 body{
 
     font-family: 'Silkscreen', sans-serif;
